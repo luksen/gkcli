@@ -4,7 +4,7 @@
 
 or, if you don't want somepass in your history just
 
-   gkcli set somekey
+    gkcli set somekey
 
 and enter the password
 
